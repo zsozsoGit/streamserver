@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "id": 1,
+      "name": "ETTS"
+    },
+    {
+      "id": 1,
+      "name": "ETTS"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
