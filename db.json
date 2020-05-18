@@ -9,6 +9,11 @@
       "id": 2,
       "name": "RFS",
       "state": "Fail"
+    },
+    {
+      "id": 3,
+      "name": "RFU",
+      "state": "OK"
     }
   ],
   "profile": {
