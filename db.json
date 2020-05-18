@@ -2,7 +2,7 @@
   "streams": [
     {
       "id": 1,
-      "name": "ETTS",
+      "name": "ETTS_daily",
       "state": "OK"
     },
     {
