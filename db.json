@@ -2,11 +2,13 @@
   "streams": [
     {
       "id": 1,
-      "name": "ETTS"
+      "name": "ETTS",
+      "state": "OK"
     },
     {
       "id": 2,
-      "name": "RFS"
+      "name": "RFS",
+      "state": "Fail"
     }
   ],
   "profile": {
