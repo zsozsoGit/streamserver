@@ -2,18 +2,23 @@
   "streams": [
     {
       "id": 1,
-      "name": "ETTS_daily",
+      "name": "E1_daily",
       "state": "OK"
     },
     {
       "id": 2,
-      "name": "RFS",
+      "name": "RF1",
       "state": "Fail"
     },
     {
       "id": 3,
-      "name": "RFU",
+      "name": "RF2",
       "state": "OK"
+    },
+    {
+      "id": 4,
+      "name": "RF3",
+      "state": "Stopped"
     }
   ],
   "profile": {
